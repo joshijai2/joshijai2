@@ -3,7 +3,10 @@
 <img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshijai2)](https://www.linkedin.com/in/joshijai2) 
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joshi.jai232@gmail.com)](mailto:joshi.jai232@gmail.com)
+
+[<img src="https://www.kaggle.com/static/images/site-logo.png" height="26.875px" width="75px">](https://www.kaggle.com/joshijai2)
 
 I am JJ. I am from Khatima, Uttarakhand and currently pursuing my B.Tech in IT from Vellore Institute of Technology, Vellore 🏫.
 
