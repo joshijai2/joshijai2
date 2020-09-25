@@ -1,6 +1,10 @@
 <h2> Hello world👋</h2>
 
-<img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" />
+
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="30%" height="30%">
+
+<!-- <img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" /> -->
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshijai2)](https://www.linkedin.com/in/joshijai2) 
 
