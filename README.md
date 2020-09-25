@@ -16,6 +16,13 @@ Eager to be challenged in order to provide simple and efficient solutions.
 Enthusiastic to  learn new technologies as the need arises and improve my skills.
 
 
+## ⚡ Technologies 
+- Front-end development using **Bootstrap, HTML/CSS, JavaScript, React**
+- Backend development using **Express, MongoDB**
+- Competitive Programming in **C++** and **Python3**
+- Data Science using **Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Tensorflow, XGBoost**
+
+
 ## 💻 Projects
 - [Clean-beach-please](https://github.com/joshijai2/clean-beach-please)
 - [Used car price prediction using XGBoost and LightGBM](https://github.com/joshijai2/Kaggle-Notebooks/tree/master/Used-cars-price-prediction-xgboost-and-lightgbm)
@@ -24,22 +31,17 @@ Enthusiastic to  learn new technologies as the need arises and improve my skills
 - [Analysis on Apple app store games](https://github.com/joshijai2/Kaggle-Notebooks/tree/master/EDA-app-store-games)
 
 
-## ⚡ Technologies 
-- Front-end development using **Bootstrap, HTML/CSS, JavaScript, React**
-- Backend development using **Express, MongoDB**
-- Competitive Programming in **C++** and **Python3**
-- Data Science using **Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Tensorflow, XGBoost**
-
-## 👋 Reach out to me 
-[![Linkedin Badge](https://img.shields.io/badge/-Lindkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshijai2)](https://www.linkedin.com/in/joshijai2) [linkedin.com/in/joshijai2](https://www.linkedin.com/in/joshijai2)
-
-
 ![JJ github stats](https://github-readme-stats.vercel.app/api?username=joshijai2&hide=["issues"]&show_icons=true)
 
 
 - 🔭 I’m currently working on:
   - Research project on the topic **On Device AI** in collaboration with Samsung R&D Institute India - Bangalore under Samsung PRISM program.
   - SaaS product related to data science as React dev in a start-up.
+
+
+## 👋 Reach out to me 
+[![Linkedin Badge](https://img.shields.io/badge/-Lindkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshijai2)](https://www.linkedin.com/in/joshijai2) [linkedin.com/in/joshijai2](https://www.linkedin.com/in/joshijai2)
+
 
 <!--
 
