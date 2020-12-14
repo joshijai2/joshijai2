@@ -29,18 +29,18 @@ Enthusiastic to  learn new technologies as the need arises and improve my skills
 
 ## 💻 Projects
 - [Clean-beach-please](https://github.com/joshijai2/clean-beach-please)
-- [Used car price prediction using XGBoost and LightGBM](https://github.com/joshijai2/Kaggle-Notebooks/tree/master/Used-cars-price-prediction-xgboost-and-lightgbm)
-- [Skin Cancer Detection using CNN](https://github.com/joshijai2/Kaggle-Notebooks/tree/master/Skin-cancer-detection-using-cnn)
-- [Breast Cancer Detection using CNN]()
-- [Analysis on Apple app store games](https://github.com/joshijai2/Kaggle-Notebooks/tree/master/EDA-app-store-games)
+- [Used car price prediction using XGBoost and LightGBM](https://github.com/joshijai2/Used-Car-Price-Prediction-XGBoost-and-LightGBM)
+- [Skin Cancer Detection using CNN](https://github.com/joshijai2/Skin-Cancer-Detection-Using-CNN)
+- [Breast Cancer Detection using CNN](https://github.com/joshijai2/Breast-Cancer-Detection-Using-CNN)
+- [Analysis on Apple app store games](https://github.com/joshijai2/EDA-Apple-App-Store-Games)
 
 
 ![JJ github stats](https://github-readme-stats.vercel.app/api?username=joshijai2&hide=["issues"]&show_icons=true)
 
 
 - 🔭 I’m currently working on:
-  - Research project on the topic **On Device AI** in collaboration with Samsung R&D Institute India - Bangalore under Samsung PRISM program.
-  - SaaS product related to data science as React dev in a start-up.
+  - Research project on **On Device AI** in collaboration with Samsung R&D Institute India - Bangalore under Samsung PRISM program.
+
 
 
 ## 👋 Reach out to me 
