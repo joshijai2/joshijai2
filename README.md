@@ -4,7 +4,7 @@
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="github" width="30%" height="30%">
 
 <!-- <img align="right" alt="GIF" src="https://github.com/VatanaChhorn/VatanaChhorn/blob/master/image_processing20200107-3552-13pkkb4.gif" width="400" height="300" /> -->
-
+[JJ](https://joshijai2.github.io)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshijai2)](https://www.linkedin.com/in/joshijai2) 
 
@@ -46,6 +46,7 @@ Enthusiastic to  learn new technologies as the need arises and improve my skills
 ## 👋 Reach out to me 
 [![Linkedin Badge](https://img.shields.io/badge/-Lindkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshijai2)](https://www.linkedin.com/in/joshijai2) [linkedin.com/in/joshijai2](https://www.linkedin.com/in/joshijai2)
 
+[JJ](https://joshijai2.github.io)
 
 <!--
 
@@ -57,3 +58,4 @@ Enthusiastic to  learn new technologies as the need arises and improve my skills
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[JJ](https://joshijai2.github.io)
