@@ -37,7 +37,7 @@ Enthusiastic to  learn new technologies as the need arises and improve my skills
 ![JJ github stats](https://github-readme-stats.vercel.app/api?username=joshijai2&hide=["issues"]&show_icons=true)
 
 
-- 🔭 I’m recently worked on:
+- 🔭 I recently worked on:
   - Research project on **On Device AI** in collaboration with Samsung R&D Institute India - Bangalore under Samsung PRISM program.
   - **PySpark project on Azure Synapse Notebook** to detect Intrusion via analysis of data traffic.
 
