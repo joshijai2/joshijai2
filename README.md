@@ -12,7 +12,7 @@
 
 [<img src="https://www.kaggle.com/static/images/site-logo.png" height="26.875px" width="75px">](https://www.kaggle.com/joshijai2)
 
-I am JJ. I am from Khatima, Uttarakhand and currently pursuing my B.Tech in IT from Vellore Institute of Technology, Vellore 🏫.
+I am JJ from Khatima, Uttarakhand and currently pursuing my B.Tech in IT from Vellore Institute of Technology, Vellore 🏫.
 
 Being interested in computers since a young age, it feels wonderful to solve problems with the tools that just fit your hands.
 Made significant progress from a novice to self-learning new and  interesting technologies and implementing them in projects.
@@ -21,25 +21,25 @@ Enthusiastic to  learn new technologies as the need arises and improve my skills
 
 
 ## ⚡ Technologies 
-- Front-end development using **Bootstrap, HTML/CSS, JavaScript, React**
-- Backend development using **Express, MongoDB**
-- Competitive Programming in **C++** and **Python3**
-- Data Science using **Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Tensorflow, XGBoost**
+- Front-end development using **HTML, CSS, Bootstrap, JavaScript, jQuery**
+- Competitive coding in **C++** and **Python3**
+- Data Science using **Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Tensorflow, XGBoost, PySpark**
 
 
 ## 💻 Projects
-- [Clean-beach-please](https://github.com/joshijai2/clean-beach-please)
+
+- [IDS using PySpark(Big Data)](https://github.com/joshijai2/IDS-using-pyspark)
+- [Project Portal](https://joshijai2.github.io/ProjectPortal/)
 - [Used car price prediction using XGBoost and LightGBM](https://github.com/joshijai2/Used-Car-Price-Prediction-XGBoost-and-LightGBM)
-- [Skin Cancer Detection using CNN](https://github.com/joshijai2/Skin-Cancer-Detection-Using-CNN)
-- [Breast Cancer Detection using CNN](https://github.com/joshijai2/Breast-Cancer-Detection-Using-CNN)
 - [Analysis on Apple app store games](https://github.com/joshijai2/EDA-Apple-App-Store-Games)
 
 
 ![JJ github stats](https://github-readme-stats.vercel.app/api?username=joshijai2&hide=["issues"]&show_icons=true)
 
 
-- 🔭 I’m currently working on:
+- 🔭 I’m recently worked on:
   - Research project on **On Device AI** in collaboration with Samsung R&D Institute India - Bangalore under Samsung PRISM program.
+  - **PySpark project on Azure Synapse Notebook** to detect Intrusion via analysis of data traffic.
 
 
 
@@ -58,4 +58,3 @@ Enthusiastic to  learn new technologies as the need arises and improve my skills
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-https://joshijai2.github.io
