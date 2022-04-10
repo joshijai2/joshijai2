@@ -39,7 +39,8 @@ Enthusiastic to  learn new technologies as the need arises and improve my skills
 
 
 ## 👋 Reach out to me 
-[![Linkedin Badge](https://img.shields.io/badge/-Lindkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshijai2)](https://www.linkedin.com/in/joshijai2) [linkedin.com/in/joshijai2](https://www.linkedin.com/in/joshijai2)
+[![Linkedin Badge](https://img.shields.io/badge/-Lindkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshijai2)](https://www.linkedin.com/in/joshijai2)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joshi.jai232@gmail.com)](mailto:joshi.jai232@gmail.com)
 
 
 <!--
