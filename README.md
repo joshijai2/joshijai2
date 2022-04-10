@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joshi.jai232@gmail.com)](mailto:joshi.jai232@gmail.com)
 [<img src="https://www.kaggle.com/static/images/site-logo.png" height="26.875px" width="75px">](https://www.kaggle.com/joshijai2)
 
-I am JJ from Khatima, Uttarakhand and currently working as FIG Product Strategy Intern.
+I am JJ from Khatima, Uttarakhand, currently working as *FIG Product Strategy Intern* at *BlackRock, Gurgaon, India*.
 
 Being interested in computers since a young age, it feels wonderful to solve problems with the tools that just fit your hands.
 Made significant progress from a novice to self-learning new and  interesting technologies and implementing them in projects.
@@ -16,9 +16,9 @@ Enthusiastic to  learn new technologies as the need arises and improve my skills
 
 
 ## ⚡ Technologies 
-- Front-end development using **HTML, CSS, Bootstrap, JavaScript, jQuery**
-- Dev in **Python3**
-- Data Science using **Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Keras, PySpark**
+- Dev: **Python3, SQL**
+- Data Science: **Numpy, Pandas, Matplotlib, Seaborn, Scikit-Learn, Keras, PySpark**
+- Front-End Dev: **HTML, CSS, Bootstrap, JavaScript, jQuery**
 
 
 ## 💻 Projects
