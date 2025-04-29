@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joshi.jai232@gmail.com)](mailto:joshi.jai232@gmail.com)
 [<img src="https://www.kaggle.com/static/images/site-logo.png" height="26.875px" width="75px">](https://www.kaggle.com/joshijai2)
 
-I am JJ from Khatima, Uttarakhand, currently working as *FIG Product Strategy Intern* at *BlackRock, Gurgaon, India*.
+I am JJ from Khatima, Uttarakhand, currently working as *Senior Data Engineer* at *D. E. Shaw, Gurgaon, India*.
 
 Being interested in computers since a young age, it feels wonderful to solve problems with the tools that just fit your hands.
 Made significant progress from a novice to self-learning new and  interesting technologies and implementing them in projects.
